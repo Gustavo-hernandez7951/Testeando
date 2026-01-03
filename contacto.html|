@@ -3,20 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pagina WEB HTML ...</title>
+    <title>Pagina WEB HTML</title>
+
 </head>
 <body>
-    <H1>Bienvenido a mi pagina web</H1>
+    <H1>Pagina 2 Contacto</H1>
     <ul>
         <li><a href="index.html">Inicio</a></li>
         <li><a href="pagina1.html">Pagina 1</a></li>
         <li><a href="contacto.html">Contacto</a></li>
         <li><a href="sobremi.html">Sobre mi</a></li>    
     </ul>    
-    <p>Esta es mi curso de GitHub</p>
-    <p>Bienvenido a mi pagina web en mi curso de Git Hub</p>
+    <p>Pagina 1</p>
+    <p>Esta es la pagina de contacto</p>
     <p>Estamos aprendiendo Git Hub</p>
-    <p>Bienvenido a mi pagina web en mi curso de Git Hub estos son ejemplos </p>
-    <p>pagina de pruebas</p>
+<<<<<<< HEAD
+=======
+    <form action="">
+        <input type="text" name="" id="">
+    </form>
+    <p>pagina de pruebas de contacto</p>
+    <p>Pagina de pruebas</p>
+>>>>>>> e34cb74 (Cambios en los archivos principales)
 </body>
 </html>
